@@ -56,6 +56,7 @@ Some files which you'll need for Making the Azure ML Endpoint
 
 
 Other Project Artifacts:
+- **LangugeRecReport.pdf**: final report of the project
 - **255Project.pptx:** Presentation PPT
 - **all_data.pkl:** The pickle file which contains the MFCC values and labels for all the audio files, this is the file you can use if you want to rerun the training notebook directly
 - audio_file: contains sample audio files which you can use for testing/model inference
